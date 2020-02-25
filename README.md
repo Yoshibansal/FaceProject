@@ -13,6 +13,8 @@ Step 5: Follow the instructions given there.
 
 Step 6: If you want to upload the files of your own choice i.e. if you have the pics than just put them inside the content/download/(folder_name)/. 
 
+//Some example's of what we will get as an output file is in the folder "Example_o:p".
+
 Congratulations! You can now detect faces from thousands of photos.
 
 Enjoy!!!
